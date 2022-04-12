@@ -1,0 +1,142 @@
+.header {
+    background-color: #F0FFF0;
+
+}
+
+.sing-in {
+    color: white;
+    background-color: #21B573;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 30px;
+
+}
+
+.nav-item {
+    padding: 10px 25px;
+}
+
+.nav-link {
+
+    color: #000000 !important;
+}
+
+.navbar-gap {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.head2 {
+    padding: 20px 5px 80px;
+}
+
+.bold-f {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+}
+
+.start-btn {
+    margin-top: 20px;
+}
+
+.learn {
+    color: #FD511A;
+}
+
+.schedule {
+    color: #21B573;
+}
+
+.card-sec {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.test {
+    border: none;
+    padding: 50px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+
+.top {
+    padding-top: 30px;
+}
+
+.test2 {
+    border: none;
+    padding: 50px;
+    box-shadow: 5px 15px 10px lightgrey;
+    border-radius: 10px;
+}
+
+.m-card-head {
+    color: #413960;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+
+.card {
+    padding: 25px 15px;
+    border-radius: 18px;
+    box-shadow: 5px 15px 10px lightgrey;
+}
+
+.main-card-sec {
+    margin-bottom: 50px;
+}
+
+.Testimonial {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.testmoi {
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+
+.card-footer {
+    border: none;
+    background-color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    color: #585859;
+    margin-top: 20px;
+}
+
+.course {
+    font-weight: 700;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.l-side {
+    padding: 0px 175px;
+}
+
+.footer {
+    height: 370px;
+    background-color: #282531;
+}
+
+.f-text {
+    font-size: 14px;
+    font-weight: 300;
+    color: #ffffff;
+
+}
+
+.mar-foot {
+    margin-top: 50px;
+}
+
+.footer-f {
+    color: #CDCDCD;
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 70px;
+}
